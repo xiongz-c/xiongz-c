@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, I'm Xiong Zhuochen 👋
 <!--
 **zc-BEAR/zc-BEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Xiong Zhuochen
-
 - A Computer Science Student at SUSTech
+- 🔭 I’m currently working on Fuzzing
 - 🌱 I’m currently learning GoLang & C++
 
 ### 🛠 Tech Stack
-
 - 💻 &#160; 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; 
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
@@ -35,7 +32,10 @@ Here are some ideas to get you started:
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+
 ### Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zc-BEAR&layout=compact)
+
 ![info](https://github-readme-stats.vercel.app/api?username=zc-BEAR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
