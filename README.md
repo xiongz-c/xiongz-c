@@ -1,4 +1,4 @@
-### Hi, I'm Xiong Zhuochen 👋
+### Hi 👋 I'm Xiong Zhuochen 
 <!--
 **zc-BEAR/zc-BEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; 
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=Spring)
 - 🛢 &#160; 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
