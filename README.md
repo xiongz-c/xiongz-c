@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-- A Computer Science Student at SUSTech
-- 🔭 I’m currently working on Fuzzing
+- SUSTecher & Bytedancer
+- 🔭 I’m currently working on JianYing & CapCut Develop
 - 🌱 I’m currently learning GoLang & C++
 
 ### 🛠 Tech Stack
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🛢 &#160; 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - 🔧 &#160;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
