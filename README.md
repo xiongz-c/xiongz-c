@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - SUSTecher & Bytedancer
 - 🔭 I’m currently working on JianYing & CapCut Develop
 - 🌱 I’m currently learning GoLang & C++
-
+<!--
 ### 🛠 Tech Stack
 - 💻 &#160; 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+-->
 
 ### Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zc-BEAR&layout=compact)
