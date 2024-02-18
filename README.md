@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zc-BEAR&layout=compact)
 
-![info](https://github-readme-stats.vercel.app/api?username=zc-BEAR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=xiongz-c&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
 ### Projects
