@@ -3,9 +3,12 @@
     <td width="58%" valign="top">
       <h3>Hi 👋 I'm Xiong Zhuochen</h3>
       <ul>
-        <li>SUSTecher & Bytedancer</li>
-        <li>🔭 I’m currently working on JianYing & CapCut Develop</li>
-        <li>🌱 I’m currently learning GoLang & C++</li>
+        <li>Architecture engineer at ByteDance, working on globalization architecture for CapCut</li>
+        <li>SUSTech alum</li>
+        <li>Focused on server-side and platform systems for global products</li>
+        <li>Multi-region deployment, disaster recovery, reliability, performance, and compliance-aware design</li>
+        <li>Python / Node.js / Go</li>
+        <li>Interested in AI agents, developer tooling, and AI-assisted engineering workflows</li>
       </ul>
     </td>
     <td width="42%" valign="top" align="center">
