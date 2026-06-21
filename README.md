@@ -1,25 +1,21 @@
-### Hi 👋 I'm Xiong Zhuochen 
-<!--
-**zc-BEAR/zc-BEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-- SUSTecher & Bytedancer
-- 🔭 I’m currently working on JianYing & CapCut Develop
-- 🌱 I’m currently learning GoLang & C++
-
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Hi 👋 I'm Xiong Zhuochen</h3>
+      <ul>
+        <li>SUSTecher & Bytedancer</li>
+        <li>🔭 I’m currently working on JianYing & CapCut Develop</li>
+        <li>🌱 I’m currently learning GoLang & C++</li>
+      </ul>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <img alt="Coding cat" width="360" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+    </td>
+  </tr>
+</table>
 
 ### Statistics
 
-![info](https://github-readme-stats.vercel.app/api?username=xiongz-c&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<p>
+  <img alt="Xiong Zhuochen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiongz-c&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+</p>
